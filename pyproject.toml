@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "tqqq-d1-intraday"
+version = "0.1.0"
+description = ""
+authors = ["Marwin Steiner <marwin.steiner@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+dynaconf = "^3.2.10"
+pandas = "^2.2.3"
+numpy = "^2.2.3"
+requests = "^2.32.3"
+shelf = "^0.2.0"
+schedule = "^1.2.2"
+pandas-market-calendars = "^4.6.1"
+pathlib = "^1.0.1"
+loguru = "^0.7.3"
+ipykernel = "^6.29.5"
+yfinance = "^0.2.54"
+matplotlib = "^3.10.0"
+seaborn = "^0.13.2"
+polygon-api-client = "^1.14.4"
+tqdm = "^4.67.1"
+ipywidgets = "^8.1.5"
+scipy = "^1.15.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
