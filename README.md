@@ -1,2 +1,4 @@
-# tqqq_d1_intraday
-An intraday D1 strategy.
+# TQQQ Intraday Strategy
+
+![alt text](image.png)
+![alt text](image-1.png)
